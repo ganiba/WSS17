@@ -1,0 +1,162 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5100,        152]
+NotebookOptionsPosition[      3662,        109]
+NotebookOutlinePosition[      4019,        125]
+CellTagsIndexPosition[      3976,        122]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Ghassane Aniba", "Subsection",
+ CellChangeTimes->{{3.707136045495122*^9, 
+  3.7071360793735237`*^9}},ExpressionUUID->"cb7e05f2-07cf-4449-ab62-\
+6064f18a830a"],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+professor of engineers in Morocco, signal processing, PhD in EE\
+\>", "Item",
+ CellChangeTimes->{{3.7071392564569807`*^9, 
+  3.7071393215347357`*^9}},ExpressionUUID->"d7ace147-4ee7-442a-bc6f-\
+ac73296e67f9"],
+
+Cell["most students are top in country, school started in 1954", "Item",
+ CellChangeTimes->{{3.7071392564569807`*^9, 
+  3.707139338189336*^9}},ExpressionUUID->"eb758cb5-30be-4018-9763-\
+0519158183b2"],
+
+Cell["\<\
+course get quite boring, need to use figures to get concepts across, want to \
+use CDF and Animation, now they are interested\
+\>", "Item",
+ CellChangeTimes->{{3.7071392564569807`*^9, 3.707139413849104*^9}, 
+   3.7071394586401997`*^9},ExpressionUUID->"363ed09d-9fde-4a3b-aac5-\
+b12cc83dde9b"],
+
+Cell["\<\
+develop signal processing materials for classroom, and tools to make it \
+easier to make notebooks for educators\
+\>", "Item",
+ CellChangeTimes->{{3.7071392564569807`*^9, 3.7071394915165367`*^9}, {
+  3.707139534625518*^9, 
+  3.707139546953062*^9}},ExpressionUUID->"5dbf857d-e7fc-4f30-9966-\
+fc6cb1ccfc56"],
+
+Cell["SW: do students go on to computing?", "Item",
+ CellChangeTimes->{{3.7071392564569807`*^9, 3.7071394915165367`*^9}, {
+  3.707139534625518*^9, 
+  3.707139575181716*^9}},ExpressionUUID->"cd9d7a7d-d58b-443d-9462-\
+583351e40028"],
+
+Cell["most students use MATLAB, MATLAB Live (similar to CDF)", "Item",
+ CellChangeTimes->{{3.7071392564569807`*^9, 3.7071394915165367`*^9}, {
+  3.707139534625518*^9, 3.707139616452907*^9}, {3.70713976173339*^9, 
+  3.707139761733596*^9}},ExpressionUUID->"dcff9f3a-6125-475a-9a6f-\
+2a0f53f172d6"],
+
+Cell["\<\
+renewable energy initiatives in Morocco, students go into this field, also \
+electrical cars\
+\>", "Item",
+ CellChangeTimes->{{3.7071392564569807`*^9, 3.7071394915165367`*^9}, {
+  3.707139534625518*^9, 3.707139616452907*^9}, {3.707139762187995*^9, 
+  3.707139792754513*^9}},ExpressionUUID->"cd730e94-8dcd-45b1-855e-\
+6ae4c7b09a52"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Discussion", "Subsubsection",
+ CellChangeTimes->{{3.7071582970941057`*^9, 
+  3.707158298939995*^9}},ExpressionUUID->"c63ab2ad-0884-486e-bae7-\
+4f7c7a9f1bfb"],
+
+Cell[CellGroupData[{
+
+Cell["SW: signal processing", "Item",
+ CellChangeTimes->{{3.707158302739588*^9, 3.707158309188099*^9}, {
+  3.7071586540710373`*^9, 
+  3.707158654623537*^9}},ExpressionUUID->"ad7fdca9-406a-4e77-a710-\
+635c789cf447"],
+
+Cell["\<\
+SW: get new book stylesheet to Ghassane, send us a sample chapter and we\
+\[CloseCurlyQuote]ll get it to person who handles books, to Bob & John \
+tonight, get back style sheet & palette to use it\
+\>", "Item",
+ CellChangeTimes->{{3.707158302739588*^9, 3.7071583084839907`*^9}, {
+  3.707158486809738*^9, 3.707158496368835*^9}, {3.7071585596370687`*^9, 
+  3.707158582363854*^9}, {3.707158641904372*^9, 
+  3.707158686045965*^9}},ExpressionUUID->"1c2235ce-b107-48d1-a7c9-\
+56b2e55b0579"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 845},
+WindowMargins->{{348, Automatic}, {-44, Automatic}},
+FrontEndVersion->"11.1 for Mac OS X x86 (32-bit, 64-bit Kernel) (April 27, \
+2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 164, 3, 44, "Subsection", "ExpressionUUID" -> \
+"cb7e05f2-07cf-4449-ab62-6064f18a830a"],
+Cell[CellGroupData[{
+Cell[769, 29, 217, 5, 30, "Item", "ExpressionUUID" -> \
+"d7ace147-4ee7-442a-bc6f-ac73296e67f9"],
+Cell[989, 36, 200, 3, 30, "Item", "ExpressionUUID" -> \
+"eb758cb5-30be-4018-9763-0519158183b2"],
+Cell[1192, 41, 302, 6, 45, "Item", "ExpressionUUID" -> \
+"363ed09d-9fde-4a3b-aac5-b12cc83dde9b"],
+Cell[1497, 49, 315, 7, 45, "Item", "ExpressionUUID" -> \
+"5dbf857d-e7fc-4f30-9966-fc6cb1ccfc56"],
+Cell[1815, 58, 230, 4, 30, "Item", "ExpressionUUID" -> \
+"cd9d7a7d-d58b-443d-9462-583351e40028"],
+Cell[2048, 64, 294, 4, 30, "Item", "ExpressionUUID" -> \
+"dcff9f3a-6125-475a-9a6f-2a0f53f172d6"],
+Cell[2345, 70, 341, 7, 30, "Item", "ExpressionUUID" -> \
+"cd730e94-8dcd-45b1-855e-6ae4c7b09a52"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2723, 82, 163, 3, 35, "Subsubsection", "ExpressionUUID" -> \
+"c63ab2ad-0884-486e-bae7-4f7c7a9f1bfb"],
+Cell[CellGroupData[{
+Cell[2911, 89, 214, 4, 30, "Item", "ExpressionUUID" -> \
+"ad7fdca9-406a-4e77-a710-635c789cf447"],
+Cell[3128, 95, 494, 9, 45, "Item", "ExpressionUUID" -> \
+"1c2235ce-b107-48d1-a7c9-56b2e55b0579"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
