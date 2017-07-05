@@ -1,4 +1,4 @@
-**<h1>Summer School Project</h1>**
+# Wolfram Summer School Project
 ----------
 <h2>Development of a Book on Signals and Systems</h2>
 <h3>Project description</h3>
